@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.new_text {position: relative;top: 7em;left: 22em;}
+
+h3.new_text_h3 {
+    position: relative;
+    top: 11em;
+}
+
+h3.new_text_h3 {
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* position: relative; */
+}
+
+.container {
+    height: 141ch;
+}
+
+h3.new_text_h3 {
+    position: relative;
+    top: 0em;
+}
+
+.container_box_plus {
+   
+    position: relative;
+    top: 2em;
+    align-content: t;
+    
+}
+.container_box:hover{
+    background-color: #414141;
+}
+
+
+.container_box {
+    margin-top: 1em;
+    height: 5em;
+    align-items: baseline;
+    justify-content: space-between;
+    display: flex;
+    /* width: 100%; */
+    position: relative;
+    top: 3em;
+    left: 12em;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.container_1st {
+    font-size: xxx-large;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
+
+.container_1st {}
+
+.container_box {
+    /* border: 1px solid; */
+    width: 70%;
+    background-color: #2D2D2D;
+}
+
+img.Right_side03 {
+    width: 33em;
+    position: relative;
+    top: -6em;
+    left: 5em;
+}
+
+.left_side03 {
+    width: 24em;
+    position: relative;
+    top: 9em;
+    left: 11em;
+}
+
+.left_side02 {
+    width: 33em;
+    position: relative;
+    left: 39em;
+    bottom: -10em;
+}
+
+.Tv_image02 {
+    width: 28em;
+    position: relative;
+    top: -8em;
+}
+
+.tv_videoo1 {
+    width: 21.8em;
+}
+
+.Tv_image {
+    position: relative;
+    top: -7em;
+    left: 45em;
+}
+
+.tv_video1 {
+    position: relative;
+    top: -25em;
+    left: 49em;
+}
+
+.left_side {
+    position: relative;
+    top: 9em;
+    left: 8em;
+    width: 34vw;
+}
+
+.Tv_image {
+    width: 30em;
+}
+
+.line {
+    width: 100%;
+    height: 8px;
+    background-color: #232323;
+}
+
+.box_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 0.6em;
+    position: absolute;
+    top: 29em;
+    left: 24em;
+}
+
+.text_middle_h4 {
+    display: flex;
+    justify-content: center;
+}
+
+.text_middle_h1 {
+    font-size: xxx-large;
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+
+
+}
+
+.text_middle_h3 {
+    justify-content: center;
+    display: flex;
+    font-size: 24px;
+}
+
+.text_middle_font {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font: message-box;
+    margin-top: 1em;
+    font-size: 24px;
+    color: white;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background-image: url(netflix.jpg);
+}
+
+.Background_Black {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    opacity: 0.6;
+}
+
+.Navbar {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    gap: 0em;
+    align-items: center;
+    top: 0;
+    gap: 44em;
+    margin-left: 12em;
+}
+
+.netflixbgremove {
+    width: 10em;
+    margin-top: 13px;
+}
+
+.sign_up {
+    background-color: #E50914;
+    color: white;
+    border-style: none;
+    font-family: system-ui;
+    border-radius: 0.3em;
+    cursor: pointer;
+    font-weight: 500;
+    width: 5.5em;
+    height: 2.5em;
+}
+
+.sign_up:hover {
+    background-color: #C11119;
+}
+
+.text_middle {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    position: absolute;
+    top: 17em;
+    left: 16em;
+    color: white;
+}
+
+.box_button_button {
+    background-color: #E50914;
+    color: white;
+    border-style: none;
+    font-family: system-ui;
+    border-radius: 0.19em;
+    cursor: pointer;
+    font-weight: 500;
+    width: 9.1em;
+    height: 2.3em;
+    font-size: x-large;
+    /* position: relative; */
+}
+
+.box_button_button:hover {
+    background-color: #C11119;
+
+}
+
+.box_button_input {
+    width: 27em;
+    height: 3.7em;
+    background-color: black;
+    filter: opacity(0.8);
+    color: white;
+    border: 1px solid #3c3c3c;
+}
+
+/* Now 2nd hub */
+.Second_Part {
+    width: 100%;
+    height: 84vh;
+    background-color: black;
+}
+
+.container {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    color: white;
+    background-color: black;
+
+}
+
+.box_buttn {
+    position: relative;
+    left: 1em;
+    top: 3em;
+}
